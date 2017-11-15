@@ -74,7 +74,7 @@ div.questions h4{
 div.questions p{
   margin-top:30px;
 }
-.button a{
+div.questions.button a{
   border-radius: 5px;
   color: #FFF;
   background-color: #007bff;
